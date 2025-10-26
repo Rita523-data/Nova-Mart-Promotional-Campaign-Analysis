@@ -16,7 +16,7 @@ Objective: To analyze data from Diwali 2024 and Sankranti 2024 promotional campa
 
 # Interactive Dashboard Link: 
 
-[Click here to View]()
+[Click here to View](https://app.powerbi.com/view?r=eyJrIjoiNTUwOTYxYTgtY2RkOC00NGJmLWJhOTgtM2Y0M2EzZmQ5YjE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 # Objectives
